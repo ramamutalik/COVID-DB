@@ -1,1 +1,2 @@
-# COVID-DB
+# Covid Bed Booking System
+
